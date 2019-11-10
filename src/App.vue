@@ -9,12 +9,14 @@
 <script>
 import Form from './components/Form'
 import Display from './components/Display'
+// import DisplayTwo from './components/DisplayTwo'
 
 export default {
   name: "App",
   components: {
     Form,
-    Display
+    Display,
+    // DisplayTwo
   }
 };
 </script>

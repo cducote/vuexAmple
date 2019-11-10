@@ -1,6 +1,6 @@
 <template>
   <div>
-    <label for="flavor"> Fravorite ice cream flavor?</label>
+    <label for="flavor"> Favorite ice cream flavor?</label>
     <input @input="changed" name="flavor">
   </div>
 </template>
